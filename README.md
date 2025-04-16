@@ -1,4 +1,4 @@
-# <div align="center">✨💖 ¡Hola! Soy Marco Polo 💖✨</div>
+# <div align="center"> ¡Hola! Soy Marco Polo</div>
 
 <img align="right" src="https://i.pinimg.com/736x/3b/33/c2/3b33c260e38cd62b2ef6f3d15f8990f3.jpg" width="30%" style="border-radius:50%; border: 5px solid #FF80AB;" />
 
@@ -16,11 +16,11 @@ const marco = {
 }
 ```
 
-🌸 Soy un desarrollador apasionado que ama explorar nuevas tecnologías y aprender constantemente.
+ Soy un desarrollador apasionado que ama explorar nuevas tecnologías y aprender constantemente.
 
-🌈 Buscando colaborar en proyectos innovadores y desafiantes.
+ Buscando colaborar en proyectos innovadores y desafiantes.
 
-💕 ¡Pregúntame sobre desarrollo web, aplicaciones móviles y tendencias tecnológicas!
+ ¡Pregúntame sobre desarrollo web, aplicaciones móviles y tendencias tecnológicas!
 
 </div>
 
@@ -55,7 +55,7 @@ const marco = {
 
 ---
 
-## <div align="center">🎀 Mis estadísticas de GitHub 🎀</div>
+## <div align="center">Mis estadísticas de GitHub </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcopolo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&bg_color=ffcfe9&title_color=ff1493&text_color=9370db&icon_color=ff1493&border_color=ff80ab" height="150" alt="Estadísticas de GitHub"  />
@@ -103,7 +103,7 @@ const marco = {
 
 ---
 
-## <div align="center">💝 Conecta Conmigo 💝</div>
+## <div align="center">Conecta Conmigo </div>
 
 <div align="center">
   <a href="https://youtube.com" target="_blank">
