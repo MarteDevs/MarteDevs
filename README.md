@@ -1,6 +1,6 @@
 # <div align="center"> ¡Hola! Soy Marco Polo</div>
 
-<img align="right" src="https://i.pinimg.com/736x/3b/33/c2/3b33c260e38cd62b2ef6f3d15f8990f3.jpg" width="30%" style="border-radius:50%; border: 5px solid #FF80AB;" />
+<img align="right" src="https://i.pinimg.com/736x/39/e8/16/39e816954367ec0929807ebe76cfb002.jpg" width="30%" style="border-radius:50%; border: 5px solid #FF80AB;" />
 
 <div align="left">
 
