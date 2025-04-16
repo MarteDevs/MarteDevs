@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💖 Sobre Mí</h3>
+      <h3 align="center">Sobre Mí</h3>
       <p align="center">
         <img src="https://i.imgur.com/CKl2NHd.gif" alt="cute coding gif" width="30" height="30"/> 
         Soy un desarrollador apasionado de 21 años, originario de Perú.
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌸 Tecnologías y Herramientas 🌸
+##  Tecnologías y Herramientas 
 
 <table>
   <tr>
@@ -94,7 +94,7 @@
 ---
 
 <div align="center">
-  <h2>✨ Conecta Conmigo ✨</h2>
+  <h2>Conecta Conmigo </h2>
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
