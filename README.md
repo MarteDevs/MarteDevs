@@ -9,10 +9,9 @@
     </p>
   </div>
 
-  <!-- Columna de Imágenes (Derecha) -->
-  <div style="flex: 0 0 320px; display: flex; flex-direction: column; gap: 15px;">
-    <img src="" alt="Mi imagen personal" style="width: 100%; border: 2px solid #FF4081; border-radius: 8px;" />
-
+<div style="width: 320px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px; border: 1px solid #ccc;">
+  <img src="https://i.pinimg.com/736x/97/33/c0/9733c0a81e46e63b338a0ad8d7d1f768.jpg" alt="Mi imagen personal" style="width: 25%; text-align:center; border: 2px solid #FF4081; border-radius: 8px;" />
+</div>
   </div>
 
 </div>
